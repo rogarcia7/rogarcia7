@@ -2,7 +2,8 @@
 
 ###
 
-<p align="center">Developer | Estudante na Fatec 3/6 em ADS<br>Atualmente trabalhando com Infraestrutura e TI na Topaz for Evolution
+<p align="center">Developer | Estudante na Fatec 3/6 em ADS<br>Atualmente trabalhando com Infraestrutura e TI na Topaz for Evolution</p>
+<p align="center">
   <img align="right" height="200" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" />
 </p>
 
@@ -44,16 +45,16 @@
 
 ###
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/rodrigo-garcia7/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:ga.rodrigo200@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Email" width="40" height="40" />
+  <a href="mailto:ga.rodrigo200@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/5511949856646" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-</p>
+</div>
 
 ###
