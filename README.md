@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://giphy.com/gifs/frustrated-annoyed-programming-yYSSBtDgbbRzq" />
+  <img height="200" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" />
 </div>
 
 ###
