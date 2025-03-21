@@ -2,7 +2,9 @@
 
 ###
 
-<p align="center">Developer | Estudante na Fatec 3/6 em ADS<br>Atualmente trabalhando com Infraestrutura e TI na Topaz for Evolution</p>
+<p align="center">Developer | Estudante na Fatec 3/6 em ADS<br>Atualmente trabalhando com Infraestrutura e TI na Topaz for Evolution
+  <img align="right" height="200" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" />
+</p>
 
 ###
 
@@ -38,25 +40,19 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" />
-</div>
-
-###
-
 <h1 align="center">Social Media</h1>
 
 ###
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-garcia7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="mailto:ga.rodrigo200@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Email" width="40" height="40" />
   </a>
   <a href="https://wa.me/5511949856646" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40" />
   </a>
 </p>
 
